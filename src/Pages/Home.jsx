@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Hero from "../components/Hero";
 import { getProducts } from "../api/productsApi";
-import Services from "../components/services";
+import Services from "../components/Services";
 import Products from "../components/Products";
 
 export default function Home() {
